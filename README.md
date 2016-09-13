@@ -1,1 +1,1 @@
-# guide-to-dm
+http://guidetodatamining.com/
