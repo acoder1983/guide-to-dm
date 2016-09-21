@@ -1,1 +1,1 @@
-# guide-to-dm
+# unstructured text classification using bayes
