@@ -1,1 +1,1 @@
-# item-based filtering
+# item-based collaborative filtering
