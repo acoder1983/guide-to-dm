@@ -1,1 +1,1 @@
-# guide-to-dm
+# naive-bayes classification
